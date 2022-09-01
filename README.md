@@ -1,1 +1,2 @@
-# EDA_Los_Puche_Grocery_Store
+### EDA Los Puche Grocery Store
+Sales and operative transactions collected in a daily basis in the business.
